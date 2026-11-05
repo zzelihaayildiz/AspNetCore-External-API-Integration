@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDataProject", "ApiDataProject\ApiDataProject.csproj", "{E4C9AAF3-1731-40E7-A9B9-437FD303C99D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4C9AAF3-1731-40E7-A9B9-437FD303C99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C9AAF3-1731-40E7-A9B9-437FD303C99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C9AAF3-1731-40E7-A9B9-437FD303C99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C9AAF3-1731-40E7-A9B9-437FD303C99D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1783908B-E2BB-4F55-A34E-B786E2BAE91E}
+	EndGlobalSection
+EndGlobal
